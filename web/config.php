@@ -1,9 +1,9 @@
 <?php
 define('ROOT_PART', Root_part());
-define('APIKEY', getenv("APIKEY"));
-define('GJ_CODE', getenv("GJ_CODE"));
-define('SITE_NAME',getenv("SITE_NAME"));
-define('TITLENAME', getenv("TITLENAME"));
-define('EN2DEKEY',getenv("EN2DEKEY"));
-define('EMAIL', getenv("EMAIL"));
+define('APIKEY', 'AIzaSyA8sgAXwNxUGI-dK2Lz1oG7Srhi4xV0S9I');
+define('GJ_CODE', 'US');
+define('SITE_NAME','gigman');
+define('TITLENAME', 'gitman');
+define('EN2DEKEY','w!A$wYoB0r%:0>&X/5H_3`04>@{pN'');
+define('EMAIL', 'ctgu2015@gmail.com');
 ?>
